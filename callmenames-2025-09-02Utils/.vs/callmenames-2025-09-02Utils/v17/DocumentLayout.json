@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Coconaut\\Desktop\\design-as-a-language\\csharp\\callmenames-2025-09-02Utils\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89AB98C5-A44C-46DC-BE0E-54F538DD4FB9}|callmenames-2025-09-02Utils.csproj|c:\\users\\coconaut\\desktop\\design-as-a-language\\csharp\\callmenames-2025-09-02utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89AB98C5-A44C-46DC-BE0E-54F538DD4FB9}|callmenames-2025-09-02Utils.csproj|solutionrelative:utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\Coconaut\\Desktop\\design-as-a-language\\csharp\\callmenames-2025-09-02Utils\\Utils.cs",
+              "RelativeDocumentMoniker": "Utils.cs",
+              "ToolTip": "C:\\Users\\Coconaut\\Desktop\\design-as-a-language\\csharp\\callmenames-2025-09-02Utils\\Utils.cs",
+              "RelativeToolTip": "Utils.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAA0wDwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T00:11:37.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
