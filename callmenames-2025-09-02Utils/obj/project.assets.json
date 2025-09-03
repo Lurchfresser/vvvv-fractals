@@ -3030,21 +3030,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Coconaut\\.nuget\\packages\\": {}
+    "C:\\Users\\carlo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Coconaut\\Desktop\\fraktal\\callmenames-2025-09-02Utils\\callmenames-2025-09-02Utils.csproj",
+      "projectUniqueName": "C:\\Users\\carlo\\Documents\\VVVVVVVV\\vvvv-fractals\\callmenames-2025-09-02Utils\\callmenames-2025-09-02Utils.csproj",
       "projectName": "callmenames-2025-09-02Utils",
-      "projectPath": "C:\\Users\\Coconaut\\Desktop\\fraktal\\callmenames-2025-09-02Utils\\callmenames-2025-09-02Utils.csproj",
-      "packagesPath": "C:\\Users\\Coconaut\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Coconaut\\Desktop\\fraktal\\callmenames-2025-09-02Utils\\obj\\",
+      "projectPath": "C:\\Users\\carlo\\Documents\\VVVVVVVV\\vvvv-fractals\\callmenames-2025-09-02Utils\\callmenames-2025-09-02Utils.csproj",
+      "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\carlo\\Documents\\VVVVVVVV\\vvvv-fractals\\callmenames-2025-09-02Utils\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Coconaut\\Desktop\\fraktal\\callmenames-2025-09-02Utils\\NuGet.Config",
-        "C:\\Users\\Coconaut\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\carlo\\Documents\\VVVVVVVV\\vvvv-fractals\\callmenames-2025-09-02Utils\\NuGet.Config",
+        "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -3068,7 +3067,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -3090,12 +3090,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.18, 8.0.18]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.18, 8.0.18]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.18, 8.0.18]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.108/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

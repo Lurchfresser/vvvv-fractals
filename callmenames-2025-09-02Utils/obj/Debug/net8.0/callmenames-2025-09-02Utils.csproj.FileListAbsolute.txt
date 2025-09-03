@@ -6,3 +6,7 @@ C:\Users\Coconaut\Desktop\fraktal\callmenames-2025-09-02Utils\bin\Debug\net8.0\c
 C:\Users\Coconaut\Desktop\fraktal\callmenames-2025-09-02Utils\obj\Debug\net8.0\callmenames-2025-09-02Utils.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Coconaut\Desktop\fraktal\callmenames-2025-09-02Utils\obj\Debug\net8.0\callmenames-2025-09-02Utils.AssemblyInfoInputs.cache
 C:\Users\Coconaut\Desktop\fraktal\callmenames-2025-09-02Utils\obj\Debug\net8.0\callmenames-2025-09-02Utils.AssemblyInfo.cs
+C:\Users\carlo\Documents\VVVVVVVV\vvvv-fractals\callmenames-2025-09-02Utils\bin\Debug\net8.0\callmenames-2025-09-02Utils.deps.json
+C:\Users\carlo\Documents\VVVVVVVV\vvvv-fractals\callmenames-2025-09-02Utils\obj\Debug\net8.0\callmenames-2025-09-02Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Documents\VVVVVVVV\vvvv-fractals\callmenames-2025-09-02Utils\obj\Debug\net8.0\callmenames-2025-09-02Utils.AssemblyInfoInputs.cache
+C:\Users\carlo\Documents\VVVVVVVV\vvvv-fractals\callmenames-2025-09-02Utils\obj\Debug\net8.0\callmenames-2025-09-02Utils.AssemblyInfo.cs
