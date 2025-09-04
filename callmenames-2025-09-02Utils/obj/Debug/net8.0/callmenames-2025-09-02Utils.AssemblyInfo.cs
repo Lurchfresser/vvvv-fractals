@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("callmenames-2025-09-02Utils")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5085609d7416d069101d0d6504678a3a66b1918b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe541b20c67fcb1c6e3ab4cb2d5b7cd3a1224ceb")]
 [assembly: System.Reflection.AssemblyProductAttribute("callmenames-2025-09-02Utils")]
 [assembly: System.Reflection.AssemblyTitleAttribute("callmenames-2025-09-02Utils")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
